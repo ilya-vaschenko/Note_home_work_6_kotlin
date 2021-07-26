@@ -1,0 +1,2 @@
+rootProject.name = "Note_home_work_6"
+include ':app'
